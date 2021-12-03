@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rectangle</string>
+    <string name="welcome">Welcome in the game!</string>
+    <string name="side">Write here the length of the side</string>
+    <string name="area">Area</string>
+    <string name="perimeter">Perimeter</string>
+    <string name="newGame">New Game</string>
+    <string name="submit">Submit</string>
+</resources>
